@@ -8,5 +8,11 @@
         "psr-0":{
             "phptestNamespace":""
         }
-    }
+    },
+     "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/gtashnik/phptest"
+        }
+    ]
 }
